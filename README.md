@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OwEn-GaTO
 - 👀 I’m interested in desktops apps
 - 🌱 I’m currently learning  c#
-- 💞️ I’m looking to collaborate on  cualquier proyecto java
-- 📫 How to reach me  mi correo es marianolopezhoy@hotmail.com
+- 💞️ I’m looking to collaborate on any java project
+- 📫 How to reach me marianolopezhoy@hotmail.com
 
 
 <!---
